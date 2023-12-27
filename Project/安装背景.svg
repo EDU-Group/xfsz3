@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1366.72 770">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 23px;
+      }
+
+      .cls-2, .cls-3 {
+        font-family: SimHei, SimHei;
+      }
+
+      .cls-3 {
+        fill: #e6e6e6;
+        font-size: 48px;
+      }
+
+      .cls-4 {
+        fill: #fbb03b;
+      }
+
+      .cls-5 {
+        fill: #f7931e;
+        filter: url(#drop-shadow-1);
+      }
+    </style>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="0" dy="0"/>
+      <feGaussianBlur result="blur" stdDeviation="9"/>
+      <feFlood flood-color="#000" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" x=".72" y="1.5" width="1366" height="768"/>
+  <g>
+    <polygon class="cls-4" points="3.01 766.99 3.01 102.88 102.88 3.01 367.43 3.01 367.43 696.8 297.24 766.99 3.01 766.99"/>
+    <path d="m364.42,6.02v689.53l-68.42,68.42H6.02V104.13L104.13,6.02h260.29m6.02-6.02H101.63L0,101.63v668.37h298.49l71.95-71.95V0h0Z"/>
+  </g>
+  <rect class="cls-5" x="55.72" y="346.5" width="260" height="79" rx="26.34" ry="26.34"/>
+  <image width="768" height="768" transform="translate(70.72 117.5) scale(.3)" xlink:href="../../../../../../../../Documents/eproject/悬浮时钟GDI+/Img/newicon.png"/>
+  <text class="cls-3" transform="translate(84.92 404.19)"><tspan x="0" y="0">悬浮时钟</tspan></text>
+  <text/>
+  <text class="cls-2" transform="translate(127.44 724.98)"><tspan x="0" y="0">BY:宋浩然</tspan></text>
+</svg>

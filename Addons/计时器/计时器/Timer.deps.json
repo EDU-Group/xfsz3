@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Timer/1.0.0": {
+        "dependencies": {
+          "FFmpeg.AutoGen": "6.1.0",
+          "Interop.WMPLib": "1.0.0.0",
+          "AxInterop.WMPLib": "1.0.0.0"
+        },
+        "runtime": {
+          "Timer.dll": {}
+        }
+      },
+      "FFmpeg.AutoGen/6.1.0": {
+        "runtime": {
+          "lib/netstandard2.1/FFmpeg.AutoGen.dll": {
+            "assemblyVersion": "6.1.0.0",
+            "fileVersion": "6.1.0.0"
+          }
+        }
+      },
+      "Interop.WMPLib/1.0.0.0": {
+        "runtime": {
+          "Interop.WMPLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AxInterop.WMPLib/1.0.0.0": {
+        "runtime": {
+          "AxInterop.WMPLib.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Timer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FFmpeg.AutoGen/6.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IrsaGnj722B6Hoh/2NLwuHE8z5ZNOmrDA5ackhyCsE2dv2YSciym4MXkIvoPSVRF3MluhO8BtmM9KxaDNWeP/A==",
+      "path": "ffmpeg.autogen/6.1.0",
+      "hashPath": "ffmpeg.autogen.6.1.0.nupkg.sha512"
+    },
+    "Interop.WMPLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AxInterop.WMPLib/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
